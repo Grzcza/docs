@@ -1,3 +1,4 @@
+![20200630_183438](https://user-images.githubusercontent.com/95071992/143547967-05ba25cc-24b8-4f13-814d-e721e179bd7a.jpg)
 ---
 title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
 featuredLinks:
